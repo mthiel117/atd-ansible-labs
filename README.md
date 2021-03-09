@@ -8,7 +8,7 @@ $ cd labfiles
 $ git clone https://github.com/mthiel117/atd-ansible-labs.git
 ```
 
-Then in your VScode, navigate to `labfiles/atd-ansible-labs` to complete lab. All the paths in the next sections will be based from here.
+Then in your VScode, navigate to `atd-ansible-labs` to complete labs. All the paths in the next sections will be based from here.
 
 ```bash
 $ cd atd-ansible-labs
@@ -17,7 +17,7 @@ $ cd atd-ansible-labs
 # Labs
 
 - Lab 01 - Simple Ping
-- Lab 02 - 
+- Lab 02 -
 - Lab 03 -
 - Lab 04 -
 - Lab 05 -
