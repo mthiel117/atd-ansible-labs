@@ -16,10 +16,10 @@ $ cd atd-ansible-labs
 
 # Labs
 
-- Lab 01
-- Lab 02
-- Lab 03
-- Lab 04
-- Lab 05
-- Lab 06
+- Lab 01 - Simple Ping
+- Lab 02 - 
+- Lab 03 -
+- Lab 04 -
+- Lab 05 -
+- Lab 06 - Network Validation Check
 
