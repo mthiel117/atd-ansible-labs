@@ -1,5 +1,7 @@
 ---
 ansible_user: arista
+# Update password for individual's lab.
+# Shown on the ATD Topology page when you first connect to Lab.
 ansible_ssh_pass: arista0onz
 ansible_network_os: eos
 ansible_python_interpreter: $(which python3)
