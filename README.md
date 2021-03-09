@@ -4,14 +4,14 @@ Once your VScode interface is ready, we will install the ATD-AVD Repo to your la
 
 ```bash
 # Clone Labs to your ATD Environment
-$ cd labfiles
-$ git clone https://github.com/mthiel117/atd-ansible-labs.git
+cd labfiles
+git clone https://github.com/mthiel117/atd-ansible-labs.git
 ```
 
 Then in your VScode, navigate to `atd-ansible-labs` to complete labs. All the paths in the next sections will be based from here.
 
 ```bash
-$ cd atd-ansible-labs
+cd atd-ansible-labs
 ```
 
 # Labs
